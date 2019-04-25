@@ -1,2 +1,6 @@
 # v8-geckos-team-20
-Add-project-description-here | Voyage-8 | https://chingu.io/
+Resume Generator | Voyage-8 | https://chingu.io/
+
+## Simple resume generator based on react and nodeJs.
+
+## TODO
